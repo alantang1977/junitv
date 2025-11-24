@@ -12,10 +12,10 @@
 翡翠台,https://stream1.freetv.fun/8a31735d012894cb8c275ebf1a898a3bb42f7201dd54d6d1201d724877fd9c19.ctv
 翡翠台,https://stream1.freetv.fun/169afe453d043b4888d3e0684163a3c8e7c13738df07bcfa187dcd05223e3891.ctv
 翡翠台,https://stream1.freetv.fun/363a02513a5dbd6658d52b26c733386779319595957dce38c539ddb689d7b401.ctv
-翡翠台[geo-blocked],https://stream1.freetv.fun/d9a2e34945118d998ae46a4440adbd8b97ad86e379c36161dbea8d01c7ea74a6.ctv
-翡翠台[geo-blocked],https://stream1.freetv.fun/ab22ef5c7f5290653d178b4eefe1c6c1ff4cf374752e59ab2708ec675951bcfa.ctv
-翡翠台[geo-blocked],https://stream1.freetv.fun/fb264f1bfef92e4d5fd8cf107039be128d5e8cfa55c2730efd8d3fb231346d22.ctv
-翡翠台[geo-blocked],https://stream1.freetv.fun/bd5fd58b590cbb1ae54807d43ded272a7db28b22446a0239754cf241dd1c27f3.ctv
+翡翠台,https://stream1.freetv.fun/d9a2e34945118d998ae46a4440adbd8b97ad86e379c36161dbea8d01c7ea74a6.ctv
+翡翠台,https://stream1.freetv.fun/ab22ef5c7f5290653d178b4eefe1c6c1ff4cf374752e59ab2708ec675951bcfa.ctv
+翡翠台,https://stream1.freetv.fun/fb264f1bfef92e4d5fd8cf107039be128d5e8cfa55c2730efd8d3fb231346d22.ctv
+翡翠台,https://stream1.freetv.fun/bd5fd58b590cbb1ae54807d43ded272a7db28b22446a0239754cf241dd1c27f3.ctv
 翡翠台,https://stream1.freetv.fun/bd55a36712bf9e3e76be4afa97f832bbbc6a773bbd155bebbcea54f0ec110b96.ctv
 翡翠台,https://stream1.freetv.fun/99bb646a71d6fb69f3287af93bc08e97e334d626c7889509579bf47e76b641f8.ctv
 翡翠台,https://stream1.freetv.fun/68acc033476cd4c2ffeb3e90a756f023595401dbe5fc539de8a888d7f1f5abef.ctv
