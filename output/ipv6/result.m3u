@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/alantang1977/junitv/refs/heads/main/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2025-12-03 11:03:11
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2025-12-05 10:56:50
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🍄┃广东频道",广州综合
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -2177,6 +2177,8 @@ https://hls-gateway.vpstv.net/streams/709503.m3u8
 https://tmxk.pp.ua/smt.php?id=Animax
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Animax.png" group-title="🚂┃湾区频道",Animax
 https://tzh911.qzz.io/play-smt.php?id=Animax
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Animax.png" group-title="🚂┃湾区频道",Animax
+https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台.png" group-title="🚂┃湾区频道",美亚电影台
 http://php.jdshipin.com/smt.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="美亚电影国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影国.png" group-title="🚂┃湾区频道",美亚电影国
@@ -2281,6 +2283,8 @@ https://hls-gateway.vpstv.net/streams/476995.m3u8
 https://smt.iktv.ddns-ip.net/Smart.php?id=ettvmovie
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🚂┃湾区频道",东森电影
 https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🚂┃湾区频道",东森电影
+https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
 #EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天资讯.png" group-title="🚂┃湾区频道",靖天资讯
 https://hls-gateway.vpstv.net/streams/476258.m3u8
 #EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天资讯.png" group-title="🚂┃湾区频道",靖天资讯
@@ -2337,6 +2341,8 @@ https://smt.iktv.ddns-ip.net/Smart.php?id=videolandsport
 https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🚂┃湾区频道",纬来体育
 https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🚂┃湾区频道",纬来体育
+https://smart.dxjc.pp.ua/smart.php?id=videolandsport&token=tmxk
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来育乐.png" group-title="🚂┃湾区频道",纬来育乐
 https://vx65267199.18cn.dpdns.org/48.m3u8
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来育乐.png" group-title="🚂┃湾区频道",纬来育乐
@@ -2393,6 +2399,8 @@ https://hls-gateway.vpstv.net/streams/476648.m3u8
 https://tmxk.pp.ua/smt.php?id=discoverytwn_twn
 #EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Asia.png" group-title="🚂┃湾区频道",Discovery Asia
 https://tzh911.qzz.io/play-smt.php?id=discoverytwn_twn
+#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Asia.png" group-title="🚂┃湾区频道",Discovery Asia
+https://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
 #EXTINF:-1 tvg-name="Discovery DMAX" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery DMAX.png" group-title="🚂┃湾区频道",Discovery DMAX
 https://hls-gateway.vpstv.net/streams/708900.m3u8
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Science.png" group-title="🚂┃湾区频道",Discovery Science
@@ -2403,10 +2411,14 @@ http://2099.tv12.xyz/41_1764036427126.m3u8
 http://2099.tv12.xyz/56_1764036427126.m3u8
 #EXTINF:-1 tvg-name="TVBS News 新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS News 新闻台.png" group-title="🅱┃台湾频道",TVBS News 新闻台
 https://tmxk.pp.ua/smt.php?id=tvbs_n
+#EXTINF:-1 tvg-name="TVBS 欢乐台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS 欢乐台.png" group-title="🅱┃台湾频道",TVBS 欢乐台
+https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
 #EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS HD.png" group-title="🅱┃台湾频道",TVBS HD
 https://tmxk.pp.ua/smt.php?id=tvbs
 #EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS HD.png" group-title="🅱┃台湾频道",TVBS HD
 https://tzh911.qzz.io/play-smt.php?id=tvbs
+#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS HD.png" group-title="🅱┃台湾频道",TVBS HD
+https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
 #EXTINF:-1 tvg-name="中天新闻 HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻 HD.png" group-title="🅱┃台湾频道",中天新闻 HD
 https://tmxk.pp.ua/smt.php?id=ctinews
 #EXTINF:-1 tvg-name="中天娱乐 CTI Entertaiment" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天娱乐 CTI Entertaiment.png" group-title="🅱┃台湾频道",中天娱乐 CTI Entertaiment
@@ -2425,12 +2437,16 @@ https://tmxk.pp.ua/smt.php?id=ttvnews_twn
 https://tmxk.pp.ua/smt.php?id=ttvzhonghe
 #EXTINF:-1 tvg-name="中视 HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视 HD.png" group-title="🅱┃台湾频道",中视 HD
 https://tmxk.pp.ua/smt.php?id=zhongshihd_twn
+#EXTINF:-1 tvg-name="中视 HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视 HD.png" group-title="🅱┃台湾频道",中视 HD
+https://smart.dxjc.pp.ua/smart.php?id=zhongshihd_twn&token=tmxk
 #EXTINF:-1 tvg-name="中视新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻台.png" group-title="🅱┃台湾频道",中视新闻台
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 tvg-name="中视新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻台.png" group-title="🅱┃台湾频道",中视新闻台
 https://tmxk.pp.ua/smt.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-name="民视 HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视 HD.png" group-title="🅱┃台湾频道",民视 HD
 https://tmxk.pp.ua/smt.php?id=ftvhd_taiwan
+#EXTINF:-1 tvg-name="民视 HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视 HD.png" group-title="🅱┃台湾频道",民视 HD
+https://smart.dxjc.pp.ua/smart.php?id=ftvhd_taiwan&token=tmxk
 #EXTINF:-1 tvg-name="民视新闻台 FTV News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻台 FTV News.png" group-title="🅱┃台湾频道",民视新闻台 FTV News
 https://tmxk.pp.ua/smt.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾台.png" group-title="🅱┃台湾频道",民视台湾台
@@ -2439,6 +2455,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 https://hls-gateway.vpstv.net/streams/476244.m3u8
 #EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾台.png" group-title="🅱┃台湾频道",民视台湾台
 https://tmxk.pp.ua/smt.php?id=ftvtaiwan_twn
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾台.png" group-title="🅱┃台湾频道",民视台湾台
+https://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
 #EXTINF:-1 tvg-name="华视 CTS HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视 CTS HD.png" group-title="🅱┃台湾频道",华视 CTS HD
 https://tmxk.pp.ua/smt.php?id=ctshd_twn
 #EXTINF:-1 tvg-name="公视 CTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/公视 CTV.png" group-title="🅱┃台湾频道",公视 CTV
@@ -2455,24 +2473,32 @@ https://tmxk.pp.ua/smt.php?id=badaentertain
 https://tmxk.pp.ua/smt.php?id=hbohd_twn
 #EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO_HD.png" group-title="🅱┃台湾频道",HBO_HD
 https://tzh911.qzz.io/play-smt.php?id=hbohd_twn
+#EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO_HD.png" group-title="🅱┃台湾频道",HBO_HD
+https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
 #EXTINF:-1 tvg-name="HBO_HITS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO_HITS.png" group-title="🅱┃台湾频道",HBO_HITS
 https://smart.pendy.dpdns.org/Smart.php?id=hbohit_twn
 #EXTINF:-1 tvg-name="HBO_HITS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO_HITS.png" group-title="🅱┃台湾频道",HBO_HITS
 https://tmxk.pp.ua/smt.php?id=hbohit_twn
 #EXTINF:-1 tvg-name="HBO_HITS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO_HITS.png" group-title="🅱┃台湾频道",HBO_HITS
 https://tzh911.qzz.io/play-smt.php?id=hbohit_twn
+#EXTINF:-1 tvg-name="HBO_HITS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO_HITS.png" group-title="🅱┃台湾频道",HBO_HITS
+https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
 #EXTINF:-1 tvg-name="Hollywood Movies" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hollywood Movies.png" group-title="🅱┃台湾频道",Hollywood Movies
 https://tmxk.pp.ua/smt.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-name="三立台湾 Sanli Taiwan" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立台湾 Sanli Taiwan.png" group-title="🅱┃台湾频道",三立台湾 Sanli Taiwan
 https://tmxk.pp.ua/smt.php?id=sanlitaiwan
 #EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立戏剧台.png" group-title="🅱┃台湾频道",三立戏剧台
 https://tmxk.pp.ua/smt.php?id=sanlixiju_twn
+#EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立戏剧台.png" group-title="🅱┃台湾频道",三立戏剧台
+https://smart.dxjc.pp.ua/smart.php?id=sanlixiju_twn&token=tmxk
 #EXTINF:-1 tvg-name="三立综合 Sanli Metro" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立综合 Sanli Metro.png" group-title="🅱┃台湾频道",三立综合 Sanli Metro
 https://tmxk.pp.ua/smt.php?id=sanlizhonghe
 #EXTINF:-1 tvg-name="三立都会台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立都会台.png" group-title="🅱┃台湾频道",三立都会台
 https://hls-gateway.vpstv.net/streams/476232.m3u8
 #EXTINF:-1 tvg-name="三立都会台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立都会台.png" group-title="🅱┃台湾频道",三立都会台
 https://tmxk.pp.ua/smt.php?id=sanlidouhui
+#EXTINF:-1 tvg-name="三立都会台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立都会台.png" group-title="🅱┃台湾频道",三立都会台
+https://smart.dxjc.pp.ua/smart.php?id=sanlidouhui&token=tmxk
 #EXTINF:-1 tvg-name="东森新闻 ETTV News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森新闻 ETTV News.png" group-title="🅱┃台湾频道",东森新闻 ETTV News
 https://tmxk.pp.ua/smt.php?id=ettvnews
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CINEMAX.png" group-title="🅱┃台湾频道",CINEMAX
@@ -2547,6 +2573,8 @@ https://www.youtube.com/watch?v=6IquAgfvYmc
 https://tmxk.pp.ua/smt.php?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新闻台.png" group-title="🅱┃台湾频道",寰宇新闻台
 https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新闻台.png" group-title="🅱┃台湾频道",寰宇新闻台
+https://smart.dxjc.pp.ua/smart.php?id=huanyuxinwen_twn&token=tmxk
 #EXTINF:-1 tvg-name="公视2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/公视2.png" group-title="🅱┃台湾频道",公视2
 https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
 #EXTINF:-1 tvg-name="公视2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/公视2.png" group-title="🅱┃台湾频道",公视2
@@ -2585,6 +2613,8 @@ https://hls-gateway.vpstv.net/streams/708930.m3u8
 https://tmxk.pp.ua/smt.php?id=axn_twn
 #EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN Taiwan.png" group-title="🅱┃台湾频道",AXN Taiwan
 https://tzh911.qzz.io/play-smt.php?id=axn_twn
+#EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN Taiwan.png" group-title="🅱┃台湾频道",AXN Taiwan
+https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
 #EXTINF:-1 tvg-name="靖天国际台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天国际台.png" group-title="🅱┃台湾频道",靖天国际台
 https://tmxk.pp.ua/smt.php?id=jingtianintl_twn
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/年代新闻.png" group-title="🅱┃台湾频道",年代新闻
@@ -2685,6 +2715,8 @@ https://hls-gateway.vpstv.net/streams/709110.m3u8
 https://hls-gateway.vpstv.net/streams/476263.m3u8
 #EXTINF:-1 tvg-name="美食星球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美食星球.png" group-title="🅱┃台湾频道",美食星球
 https://tmxk.pp.ua/smt.php?id=foodplanet_twn
+#EXTINF:-1 tvg-name="美食星球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美食星球.png" group-title="🅱┃台湾频道",美食星球
+https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
 #EXTINF:-1 tvg-name="亚洲旅游 TLC Asia" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/亚洲旅游 TLC Asia.png" group-title="🅱┃台湾频道",亚洲旅游 TLC Asia
 https://tmxk.pp.ua/smt.php?id=tlc_twn
 #EXTINF:-1 tvg-name="东森电影 ETTV Movie" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影 ETTV Movie.png" group-title="🅱┃台湾频道",东森电影 ETTV Movie
@@ -2719,6 +2751,8 @@ https://live.catvod.com/live.php?id=bosiunlimited_twn&token=3ad8265bff799f2f7dd9
 https://tmxk.pp.ua/smt.php?id=mtvhd_twn
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Live.png" group-title="🅱┃台湾频道",MTV Live
 https://tzh911.qzz.io/play-smt.php?id=mtvhd_twn
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Live.png" group-title="🅱┃台湾频道",MTV Live
+https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
 #EXTINF:-1 tvg-name="龙详时代" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙详时代.png" group-title="🅱┃台湾频道",龙详时代
 https://tmxk.pp.ua/smt.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="EYETV 旅游" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EYETV 旅游.png" group-title="🅱┃台湾频道",EYETV 旅游
@@ -2733,6 +2767,8 @@ https://tmxk.pp.ua/smt.php?id=weishichinese_twn
 https://tmxk.pp.ua/smt.php?id=yoyo_twn
 #EXTINF:-1 tvg-name="卫视电影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卫视电影台.png" group-title="🅱┃台湾频道",卫视电影台
 https://tmxk.pp.ua/smt.php?id=weishimovie_twn
+#EXTINF:-1 tvg-name="卫视电影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卫视电影台.png" group-title="🅱┃台湾频道",卫视电影台
+https://smart.dxjc.pp.ua/smart.php?id=weishimovie_twn&token=tmxk
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影.png" group-title="🅱┃台湾频道",美亚电影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影.png" group-title="🅱┃台湾频道",美亚电影
@@ -2755,12 +2791,18 @@ https://hls-gateway.vpstv.net/streams/709286.m3u8
 https://hls-gateway.vpstv.net/streams/708901.m3u8
 #EXTINF:-1 tvg-name="爱尔达影剧台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱尔达影剧台.png" group-title="🅱┃台湾频道",爱尔达影剧台
 https://tmxk.pp.ua/smt.php?id=eltayingju_twn
+#EXTINF:-1 tvg-name="爱尔达影剧台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱尔达影剧台.png" group-title="🅱┃台湾频道",爱尔达影剧台
+https://smart.dxjc.pp.ua/smart.php?id=eltayingju_twn&token=tmxk
 #EXTINF:-1 tvg-name="爱尔达综合台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱尔达综合台.png" group-title="🅱┃台湾频道",爱尔达综合台
 https://tmxk.pp.ua/smt.php?id=eltazonghe_twn
+#EXTINF:-1 tvg-name="爱尔达综合台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱尔达综合台.png" group-title="🅱┃台湾频道",爱尔达综合台
+https://smart.dxjc.pp.ua/smart.php?id=eltazonghe_twn&token=tmxk
 #EXTINF:-1 tvg-name="星卫电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星卫电影.png" group-title="🅱┃台湾频道",星卫电影
 https://tmxk.pp.ua/smt.php?id=xingwei_movie
 #EXTINF:-1 tvg-name="AFC 亚洲旅游台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/AFC 亚洲旅游台.png" group-title="🅱┃台湾频道",AFC 亚洲旅游台
 https://tmxk.pp.ua/smt.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="AFC 亚洲旅游台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/AFC 亚洲旅游台.png" group-title="🅱┃台湾频道",AFC 亚洲旅游台
+https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
 #EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江钱江.png" group-title="📚┃浙江频道",浙江钱江
 http://zwebl02.cztv.com/live/channel021080P.m3u8?auth_key=2524708799-0-0-43f14b8147c890428975655007afb4cc
 #EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江钱江.png" group-title="📚┃浙江频道",浙江钱江
@@ -3587,6 +3629,8 @@ https://hls-gateway.vpstv.net/streams/476995.m3u8
 https://smt.iktv.ddns-ip.net/Smart.php?id=ettvmovie
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🎬┃电影频道",东森电影
 https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🎬┃电影频道",东森电影
+https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
 #EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙祥电影.png" group-title="🎬┃电影频道",龙祥电影
 https://smt.iktv.ddns-ip.net/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙祥电影.png" group-title="🎬┃电影频道",龙祥电影
@@ -3837,6 +3881,8 @@ https://smt.iktv.ddns-ip.net/Smart.php?id=videolandsport
 https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀┃体育频道",纬来体育
 https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀┃体育频道",纬来体育
+https://smart.dxjc.pp.ua/smart.php?id=videolandsport&token=tmxk
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🏀┃体育频道",五星体育
 https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🏀┃体育频道",五星体育
